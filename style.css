@@ -1,0 +1,15 @@
+*{
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+}
+html{
+    scroll-behavior: smooth;
+}
+/* Main page styling */
+body{
+    background: #08111f;
+    color: #edf4ff;
+    font-family:Arial, sans-serif;
+    min-height: 100vh;
+}
